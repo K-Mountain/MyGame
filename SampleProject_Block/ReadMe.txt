@@ -1,0 +1,3 @@
+ReadMeこのReadMeが入っているフォルダ「SampleProject_Block」が実際のデータです。
+このReadMeと同じ階層にある「SanpleProject_Block.unitypackage」をUnityで読み込むことでインポートできます。
+Assets/Scenes内のStartSceneまたはPlaySceneをクリックすることで、制作したシーンに飛ぶことができます。

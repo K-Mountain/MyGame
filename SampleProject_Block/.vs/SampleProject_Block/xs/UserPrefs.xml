@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{F1C7C7F8-3B69-80E3-D59A-562682A57150}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="24be1277-b18d-4d90-852d-5b1a057c1f8e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/CubeClear.cs">
+    <Files>
+      <File FileName="Assets/scripts/CubeClear.cs" Line="24" Column="54" />
+      <File FileName="Assets/scripts/BallBehavior.cs" />
+      <File FileName="Assets/scripts/PlayerBehavior.cs" Line="8" Column="46" />
+      <File FileName="Assets/scripts/ShadowBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/scripts/ScoreCounter.cs" Line="12" Column="19" />
+      <File FileName="Assets/scripts/StartButton.cs" Line="19" Column="6" />
+      <File FileName="Assets/scripts/GameOverUI.cs" Line="21" Column="39" />
+      <File FileName="Assets/scripts/ClearUI.cs" Line="18" Column="26" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SampleProject_Block" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="scripts" expanded="True">
+                <Node name="CubeClear.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
